@@ -3,6 +3,7 @@
 [導入URL](https://discord.com/api/oauth2/authorize?client_id=961521106227974174&permissions=8&scope=bot%20applications.commands)<br>
 [サポートサーバー](https://discord.gg/VHwJ3CBuWw)<br>
 [Free RTのウェブサイト](https://free-rt.com/)<br>
+[リポジトリ](https://github.com/free-RT/rt-bot)
 ## free-RT-team
 free RT teamは、RT有料化を受けて発足した無料版RT作成プロジェクトチームです。  
 このチームのプロジェクトはすべてRT-Team(現Rext)から引き継いでおり、多くのメンバーで構成されています。  
