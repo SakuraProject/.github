@@ -1,7 +1,7 @@
 # SakuraProject
 ## 概要
 SakuraProjectは、RTというdiscordのBotの有料化を受け、その後継種となるようなbot、FreeRTを生み出すために生まれた複数人のチームです。  
-現在はSakuraBotの開発を中心に行なっています。
+今まではSakuraBotの開発を中心に行なっていましたが、現在活動を終了しました。。
 # SakuraBot
 [導入URL](https://discord.com/api/oauth2/authorize?client_id=985852917489737728&permissions=8&scope=bot%20applications.commands)<br>
 [サポートサーバー](https://discord.gg/KW4CZvYMJg)<br>
